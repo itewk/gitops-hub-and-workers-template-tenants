@@ -1,2 +1,2 @@
-# tenants-gitops-hub-and-spoke-template
+# gitops hub and workers template: tenants
 TODO
