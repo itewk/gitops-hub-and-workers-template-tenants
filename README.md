@@ -1,2 +1,2 @@
-# gitops hub and workers template: tenants
+# tenants (gitops hub and workers template)
 TODO
